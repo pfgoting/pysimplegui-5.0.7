@@ -1,0 +1,6 @@
+__pycache__
+.specstory
+.vscode
+build
+dist
+.venv
